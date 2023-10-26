@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RGJlikEI37YOp5ypepbAE87H1/79ypFhlMRd0SUhqXRpKMrHk2txHb6NG+ZR9M19qN2v0OBqIlQkJzoRD9DhOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laura.furtado\\source\\repos\\me\\pcd\\aula-pcd\\Aula\\Aula.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laura.furtado\\.nuget\\packages\\confluent.kafka\\2.3.0\\confluent.kafka.2.3.0.nupkg.sha512",
+    "C:\\Users\\laura.furtado\\.nuget\\packages\\librdkafka.redist\\2.3.0\\librdkafka.redist.2.3.0.nupkg.sha512",
+    "C:\\Users\\laura.furtado\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
